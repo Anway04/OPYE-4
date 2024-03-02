@@ -1,0 +1,15 @@
+.subheadText{
+    font-family: 'Storybook';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 8vh;
+    line-height: 75px;
+    text-align: center;
+    color: #163247;
+    margin-top: 24vh;
+  }
+  .deal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

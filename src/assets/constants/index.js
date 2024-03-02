@@ -1,4 +1,21 @@
 import { blore,pondi,kkl,pfp1,pfp2,pfp3,pfp4 } from "../../../public"
+export const deal = [
+  {
+    
+    dealName: "Deal 1",
+    dealDesc: "The languages only differ in their grammar, their pronun and their most common words."
+  },
+  {
+    
+    dealName: "Deal 2",
+    dealDesc: "This is title of the travel package that is being featured here."
+  },
+  {
+    
+    dealName: "Deal 3",
+    dealDesc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+  }, 
+]
 export const destination = [
   {
     destImg : blore,

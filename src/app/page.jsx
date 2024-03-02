@@ -1,3 +1,4 @@
+import HottestDeals from '@/components/HottestDeals'
 import Landing from '@/components/Landing'
 
 import PopularDest from '@/components/PopularDest'
@@ -11,7 +12,8 @@ const Home = () => {
       <Landing />
       <PopularDest />
       <TravellerExpirience />
-      {/* <SimpleSlider /> */}
+      <HottestDeals />
+      
 
     </section>
 )
